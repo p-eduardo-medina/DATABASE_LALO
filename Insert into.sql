@@ -1,0 +1,1 @@
+insert into categoria (nombre,descripcion) values ('Cereales','Productos como maiz, trigo, avena, arroz, etc');

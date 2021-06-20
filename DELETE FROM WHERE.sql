@@ -1,0 +1,1 @@
+DELETE FROM empleado WHERE idEmpleado=5;
